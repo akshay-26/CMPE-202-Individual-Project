@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CMPE 202 Individual Project-Akshay:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CMPE_202_Individual_Project_Akshay_jar</output-path>
+    <root id="archive" name="CMPE 202 Individual Project-Akshay.jar">
+      <element id="module-output" name="CMPE 202 Individual Project-Akshay" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/google/code/gson/gson/2.8.8/gson-2.8.8.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

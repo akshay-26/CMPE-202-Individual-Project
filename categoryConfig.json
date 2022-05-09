@@ -1,0 +1,19 @@
+[
+  {
+    "categoryName":"Essentials",
+    "items":["Milk", "Bread", "Oil","Cotton","Apples"],
+    "limit":5
+  },
+  {
+    "categoryName":"Luxury",
+    "items":["Honey","Chocolates","Cereal","Soap","Detergent","Paint"],
+    "limit":3
+  },
+  {
+    "categoryName":"Misc",
+    "items":["Pillow","Sheets","Blanket","Television","Map"],
+    "limit":6
+  }
+]
+
+

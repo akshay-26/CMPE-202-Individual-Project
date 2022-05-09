@@ -1,0 +1,8 @@
+#item,quantity,price
+Clothes,5,50.29
+Soap,3,2.49
+Milk,10,5.49
+Perfume,4,25.99
+Chocolates,20,12.29
+Bedsheet,15,30.59
+Footwear,10,10.99
